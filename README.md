@@ -50,4 +50,4 @@ Add your own domain name and have it point to the running services (try adding a
 
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 
-### Elastic Beanstalk Endpoint - http://udagram-dev.us-east-2.elasticbeanstalk.com/
+### Elastic Beanstalk Endpoint - http://udagram-dev.us-east-2.elasticbeanstalk.com/filteredimage?image_url=https://images.unsplash.com/photo-1534361960057-19889db9621e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
